@@ -28,8 +28,8 @@ The system is designed to process two datasets (`tmdb_5000_movies.csv` and `tmdb
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/acharekarshubham12/Movie-recommendation-systemmm.git
-   cd Movie-recommendation-systemmm
+   git clone https://github.com/acharekarshubham12/Movie-recommendation-system.git
+   cd Movie-recommendation-system
    ```
 2. Install dependencies:
    ```
